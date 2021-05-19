@@ -26,6 +26,8 @@ import kotlin.collections.ArrayList
 
 class MainActivity : AppCompatActivity() {
 
+    //テストのためにファイルを更新
+
     private val LOG_TAG = "ExternalStrageTest"
 
     var audioRecord //録音用のオーディオレコードクラス
