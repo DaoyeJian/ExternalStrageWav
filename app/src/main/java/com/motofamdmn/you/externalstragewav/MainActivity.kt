@@ -27,6 +27,7 @@ import kotlin.collections.ArrayList
 class MainActivity : AppCompatActivity() {
 
     //テストのためにファイルを更新
+    //マックでテスト的にファイルを更新
 
     private val LOG_TAG = "ExternalStrageTest"
 
